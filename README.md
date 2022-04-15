@@ -25,6 +25,10 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 - [Network Transceivers](https://nbviewer.org/github/SeanOhAileasa/nkp-infrastructure/blob/main/rc/cabling/nkp-network-transceivers.ipynb) <br/>
 - [Ethernet Standards](https://nbviewer.org/github/SeanOhAileasa/nkp-infrastructure/blob/main/rc/cabling/nkp-ethernet-standards.ipynb) <br/>
 
+##### ``Networking Devices``
+
+- [Networking Devices](https://nbviewer.org/github/SeanOhAileasa/nkp-infrastructure/blob/main/rc/networking-devices/nkp-networking-devices.ipynb) <br/>
+
 ## Credits
 
 J. "Professor" Messer, "CompTIA Network+ (N10-007) Course Notes," [professormesser.com](https://web.archive.org/web/20220404153917/https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/), March 2019.
